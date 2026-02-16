@@ -39,3 +39,6 @@ This project demonstrates practical data analysis skills using a real-world data
 
 ## Project Screenshot (Optional)
 *(A visualization screenshot can be added here in a future update.)*
+
+## Recent Update
+Improved README structure and added missing context.
