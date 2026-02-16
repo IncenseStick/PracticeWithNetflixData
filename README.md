@@ -37,8 +37,5 @@ All analysis is inside the `.ipynb` file in this repository.
 ## Why This Project Matters
 This project demonstrates practical data analysis skills using a real-world dataset. It shows the full workflow of cleaning data, exploring patterns, and communicating insights clearly. The analysis highlights how data can reveal trends in content growth, audience focus, and platform strategy. It also serves as a strong portfolio example of exploratory data analysis using Python and pandas.
 
-## Project Screenshot (Optional)
-*(A visualization screenshot can be added here in a future update.)*
-
 ## Recent Update
 Improved README structure and added missing context.
